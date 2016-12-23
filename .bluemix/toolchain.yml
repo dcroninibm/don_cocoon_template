@@ -41,7 +41,7 @@ github-repo-cocoon:
 #    open-source-repo_URL: "https://github.com/apache/kafka.git"
     
 #UTI - Jira
-ccm:
+ccm-coccon:
   service_id: customtool
   parameters:
     type: JIRA
@@ -55,7 +55,7 @@ ccm:
 
 
 #UTI - Jira
-ccm:
+ccm-cocoon3:
   service_id: customtool
   parameters:
     type: JIRA
