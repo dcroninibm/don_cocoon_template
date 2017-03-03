@@ -40,7 +40,7 @@ github-repo-cocoon:
 #    open-source-repo_name: "kafka"
 #    open-source-repo_URL: "https://github.com/apache/kafka.git"
     
-jira:
+jira1:
  service_id: jira
  parameters:
    type: existing
@@ -49,7 +49,7 @@ jira:
 
 
 
-jira:
+jira2:
  service_id: jira
  parameters:
    type: existing
