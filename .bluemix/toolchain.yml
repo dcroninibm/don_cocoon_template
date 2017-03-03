@@ -7,10 +7,10 @@ required:
  - github-repo
  - insights
 
-#DevOps Insights
-#insights:
-#  service_id: draservicebroker
-#  include: insights.yml
+DevOps Insights
+insights:
+  service_id: draservicebroker
+  include: insights.yml
 
 
 # Github repos
